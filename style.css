@@ -1,6 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+
 * {
+    font-family: "Muli", sans-serif;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
     background: #FFE69B;
+}
+
+.to-do-content {
+    position: relative;
+    margin-top: 5px;
+    margin-left: 25px;
+    width: 100%;
 }
